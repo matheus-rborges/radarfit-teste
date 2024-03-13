@@ -43,6 +43,8 @@ yarn compose
 npm run compose
 ```
 
+OBS: a aplicação será disponibilizada na porta `8080`. 
+
 ## Instalação na máquina hospedeira com ambiente NodeJs prepado ([v19](https://nodejs.org/download/release/v19.9.0/))
 
 ```bash
