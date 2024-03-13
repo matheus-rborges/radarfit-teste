@@ -2,6 +2,8 @@
 
 O presente projeto corresponde à etapa de teste técnico da empresa RadarFit do participante Matheus Rodrigues Borges para a posição de Tech Lead.
 
+O arquivo PDF contendo a solução do desafio teórico pode ser acessado [neste link](https://github.com/matheus-rborges/radarfit-teste/blob/main/RadarFit%20-%20Teste%20Pr%C3%A1tico.pdf)
+
 ## Linguagem e framework
 
 O presente projeto foi escrito utilizando-se a linguagem TypeScript e valendo-se do Framework NestJs como framework principal.
