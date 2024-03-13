@@ -16,7 +16,7 @@ Para esse projeto, foi escolhido o SQLite como banco uma vez que se trata apenas
 
 | Column name | Data type | Description                                       |
 | ----------- | --------- | ------------------------------------------------- |
-| id (PK)     | interger  | The autoincrement id for the the table            |
+| id (PK)     | interger  | identificador único autoincremental               |
 | name        | text      | corresponde ao campo título solicitado            |
 | description | text      | corresponde ao campo descrição                    |
 | createdAt   | datetime  | Campo padrão para registro da hora de criação     |
