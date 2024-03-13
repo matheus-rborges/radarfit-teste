@@ -1,0 +1,29 @@
+{
+    "objects": [
+        {
+            "id": 1,
+            "name": "Laptop ASUS ZenBook",
+            "description": "Ultrafino e leve, com tela de 14 polegadas, processador Intel Core i7, 16GB de RAM e 512GB de SSD."
+        },
+        {
+            "id": 2,
+            "name": "Cadeira de Escritório Ergonômica",
+            "description": "Cadeira com design ergonômico, ajustável em altura, encosto para cabeça e apoio lombar, ideal para longas horas de trabalho."
+        },
+        {
+            "id": 3,
+            "name": "Livro: O Senhor dos Anéis",
+            "description": "Obra de fantasia escrita por J.R.R. Tolkien, que narra as aventuras de um grupo de personagens em busca de destruir um poderoso anel."
+        },
+        {
+            "id": 4,
+            "name": "Tênis Nike Air Max",
+            "description": "Tênis esportivo com tecnologia de amortecimento Air Max, ideal para corridas e atividades físicas."
+        },
+        {
+            "id": 5,
+            "name": "Panela de Pressão Elétrica",
+            "description": "Panela elétrica multifuncional com capacidade para 5 litros, ideal para preparar refeições de forma rápida e prática."
+        }
+    ]
+}
